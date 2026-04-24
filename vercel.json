@@ -3,7 +3,6 @@
   "outputDirectory": ".",
   "installCommand": "echo 'No dependencies to install'",
   "env": {},
-  "envPrefix": "",
   "regions": ["iad1"],
   "public": true,
   "headers": [
