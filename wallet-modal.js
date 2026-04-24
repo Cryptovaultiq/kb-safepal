@@ -212,12 +212,12 @@
 
   // Logic (copied/adapted from original modal script)
   const visibleList = [
-    { name: 'MetaMask', icon: '/assets/metamask.png' },
-    { name: 'WalletConnect', icon: '/assets/walletconnect.jpeg' },
+    { name: 'MetaMask', icon: '/assets/Metamask.png' },
+    { name: 'WalletConnect', icon: '/assets/Walletconnect.jpeg' },
     { name: 'Phantom', icon: '/assets/phantom.png' },
-    { name: 'SuperHero', icon: '/assets/superhero.png' },
-    { name: 'Sub', icon: '/assets/sub.png' },
-    { name: 'Acurast-lite', icon: '/assets/acurast-lite.png' },
+    { name: 'SuperHero', icon: '/assets/SuperHero.png' },
+    { name: 'Sub', icon: '/assets/Sub.png' },
+    { name: 'Acurast-lite', icon: '/assets/Acurast-lite.png' },
     { name: 'Trust Wallet', icon: '/assets/trustwallet.png' },
     { name: 'Coinbase Wallet', icon: '/assets/coinbasewallet.png' },
     { name: 'Ledger Live', icon: '/assets/ledgerlive.png' },
