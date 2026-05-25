@@ -5,6 +5,7 @@
   "installCommand": "echo 'No dependencies to install'",
   "regions": ["iad1"],
   "public": true,
+  "cleanUrls": true,
   "headers": [
     {
       "source": "/api/(.*)",
@@ -21,6 +22,5 @@
       "source": "/",
       "destination": "/index.html"
     }
-  ],
-  "cleanUrls": true
+  ]
 }
